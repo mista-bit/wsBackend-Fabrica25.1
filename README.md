@@ -18,7 +18,7 @@ Este é um projeto Django que permite a conversão de moedas utilizando a API Fi
 
 ## DESCRIÇÃO DO PROJETO
 
-# O projeto é um conversor de moedas que utiliza taxas de câmbio em tempo real da API Fixer. Ele armazena o histórico de conversões e exibe os dados em uma tabela no frontend.
+O projeto é um conversor de moedas que utiliza taxas de câmbio em tempo real da API Fixer. Ele armazena o histórico de conversões e exibe os dados em uma tabela no frontend.
 
 ---
 
