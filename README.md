@@ -48,7 +48,7 @@ LOCALMENTE
  1. Clone o repositório:
  ```bash
    git clone https://github.com/mista-bit/wsBackend-Fabrica25.1.git
-   cd fabrica25
+   cd wsBackend-Fabrica25.1
    ```
 
  2. Crie um ambiente virtual e instale as dependências:
