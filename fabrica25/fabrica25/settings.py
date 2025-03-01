@@ -122,3 +122,5 @@ STATICFILES_DIRS = []
 # https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+
+FIXER_API_KEY = "8bd115fecd0bd51e6a3c5f1733dcab5b"
