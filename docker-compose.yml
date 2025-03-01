@@ -1,10 +1,10 @@
-version: '3.4'
+version: '3.8' 
 
 services:
-  wsbackendfabrica25:
+  web:
     image: wsbackendfabrica25
-    build:
+    build: 
       context: .
-      dockerfile: ./Dockerfile
+      dockerfile: Dockerfile
     ports:
-      - 8000:8000
+      - "8000:8000"
