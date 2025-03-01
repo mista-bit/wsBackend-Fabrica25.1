@@ -1,18 +1,18 @@
-### CONVERSOR DE MOEDAS - FABRICA25
+### CONVERSOR DE MOEDAS - WSBACKEND-FABRICA25.1
 
-## Este é um projeto Django que permite a conversão de moedas utilizando a API Fixer. O frontend foi desenvolvido com Bootstrap, e o projeto é conteinerizado usando Docker.
+Este é um projeto Django que permite a conversão de moedas utilizando a API Fixer. O frontend foi desenvolvido com Bootstrap, e o projeto é conteinerizado usando Docker.
 
 ---
 
 ## ÍNDICE
-- 1. Descrição do Projeto
-- 2. Funcionalidades
-- 3. Tecnologias Utilizadas
-- 4. Como Executar o Projeto
-- 5. Estrutura do Projeto
-- 6. Integração com a API Fixer
-- 7. Contribuição
-- 8. Licença
+1. Descrição do Projeto
+2. Funcionalidades
+3. Tecnologias Utilizadas
+4. Como Executar o Projeto
+5. Estrutura do Projeto
+6. Integração com a API Fixer
+7. Contribuição
+8. Licença
 
 ---
 
