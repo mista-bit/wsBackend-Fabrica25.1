@@ -18,7 +18,7 @@ Este é um projeto Django que permite a conversão de moedas utilizando a API Fi
 
 ## DESCRIÇÃO DO PROJETO
 
-O projeto é um conversor de moedas que utiliza taxas de câmbio em tempo real da API Fixer. Ele armazena o histórico de conversões e exibe os dados em uma tabela no frontend.
+O projeto é um conversor de moedas que utiliza taxas de câmbio em tempo real da API Fixer. Ele armazena o histórico de conversões e exibe os dados em uma tabela no frontend, especificando quem foi o usuário que fez determinada conversão.
 
 ---
 
@@ -51,24 +51,28 @@ LOCALMENTE
    cd wsBackend-Fabrica25.1
    ```
 
- 2. Crie um ambiente virtual e instale as dependências:
+ 2. Crie um ambiente virtual:
  ```bash
    python -m venv venv
    source venv/bin/activate (No Windows: venv\Scripts\activate)
+   ```
+
+3. Instale as dependências:
+```bash
    pip install -r requirements.txt
    ```
 
-3. Execute as migrações do banco de dados:
+4. Execute as migrações do banco de dados:
 ```bash
    python manage.py migrate
    ```
 
-4. Inicie o servidor:
+5. Inicie o servidor:
 ```bash
    python manage.py runserver
    ```
 
-5. Acesse em: http://127.0.0.1:8000
+6. Acesse em: http://127.0.0.1:8000
 
 COM DOCKER
 
